@@ -1,0 +1,7 @@
+- 👋 Hello, I’m @felinis
+- 👀 I am a software developer from Poland!
+- 👀 I program professional graphic-capable applications using modern OpenGL and Direct3D 11.
+- 👀 I am interested in Computer Graphics and 3D game development.
+- 👀 I program mainly in C which is my favorite, and C++.
+- 👀 I use technologies such as Linux, BSD and Windows in my everyday life.
+- 📫 You can reach me by writing a private message!
